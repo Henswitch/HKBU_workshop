@@ -1,0 +1,35 @@
+h1 
+{
+    color: #ad1111;
+    font-size: 30px;
+}
+
+.standout
+{
+    color: coral;
+}
+
+.image1:hover
+{
+    border-radius: 50%;
+}
+
+.image2
+{
+    border-radius: 30px;
+}
+
+.image3
+{
+    opacity: 0.1;
+}
+
+.image4:hover
+{
+    filter: grayscale(100%);
+}
+
+.image5
+{
+    filter: blur(10px);
+}
